@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ![Namsic's github stats](https://github-readme-stats.vercel.app/api?username=namsic6460&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsic6460&hide=ASP,ShaderLab&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Github Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white&link=namsic6460@gmail.com)](namsic6460@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=namsic6460@gmail.com)](namsic6460@gmail.com)
+
 #### 🔭  I’m currently working on ...
 * SCB(StarCraft Bot) - Club President
 * Ducami - Team Member
