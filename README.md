@@ -23,27 +23,24 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on ...
 
--   SCB(StarCraft Bot) - Club President
--   Ducami - Team Member
--   DBook Project - Api Server, Web Backend
--   Phone Locker Making Project
+-   Corp. Help-me
+-   OMS Bedrock Server Project(PM, director, developer)
 
 #### 🎖 I’m currently using ...
 
--   Spring Framework(IntelliJ)
--   Java(Eclipse, IntelliJ)
--   BWAPI(Starcraft Bot Api)
--   KakaoTalk Bot(Android Studio)
--   JavaScript(Visual Studio Code)
--   C#(Unity)
+-   Spring Framework (IntelliJ)
+-   Java (IntelliJ)
+-   KakaoTalk Bot (Android Studio) (Currently stopped)
+-   TypeScript/JavaScript (Visual Studio Code)
 
 #### 🛫 I’m currently learning ...
 
 -   Spring Framework
--   BWAPI
--   Android Studio
+-   TypeScript
+-   Minecraft Addon/Script
+-   BDSX
 
 #### ⚡ Fun projects ...
 
 -   Minecraft Contents Making(Bedrock Edition) - Addon, Command, Plugin(include JE), Script
--   KakaoTalk Bot Project with Android Studio
+-   KakaoTalk Bot Project with Android Studio (Currently Stopped)
