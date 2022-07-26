@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 -   Spring Framework (IntelliJ)
 -   Java (IntelliJ)
--   KakaoTalk Bot (Android Studio) (Currently stopped)
+-   Chain-RPG Game Server (Spring Websocket - Intellij)
 -   TypeScript/JavaScript (Visual Studio Code)
 
 #### 🛫 I’m currently learning ...
@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 -   Spring Framework
 -   TypeScript
 -   Minecraft Addon/Script
--   BDSX
 
 #### ⚡ Fun projects ...
 
 -   Minecraft Contents Making(Bedrock Edition) - Addon, Command, Plugin(include JE), Script
--   KakaoTalk Bot Project with Android Studio (Currently Stopped)
+-   Chain-RPG Project with Spring Websocket and Unity
