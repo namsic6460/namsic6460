@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on ...
 
--   Corp. Help-me
+-   Corp. Stand-by Me
 -   OMS Bedrock Server Project(PM, director, developer)
 
 #### 🎖 I’m currently using ...
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 #### ⚡ Fun projects ...
 
--   Minecraft Contents Making(Bedrock Edition) - Addon, Command, Plugin(include JE), Script
+-   Minecraft Contents Making(Bedrock Edition) - Addon, Command, Script
 -   Chain-RPG Project with Spring Websocket and Unity
