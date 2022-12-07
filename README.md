@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on ...
 
--   Corp. Stand-by Me
+-   Corp. Stand-by Lab
 -   OMS Bedrock Server Project(PM, director, developer)
 
 #### 🎖 I’m currently using ...
