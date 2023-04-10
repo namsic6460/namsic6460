@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 #### 🔭 I’m currently working on ...
 
 -   Corp. Stand-by Lab
--   OMS Bedrock Server Project(PM, director, developer)
+-   LKD Bedrock Developing Crew
 
 #### 🎖 I’m currently using ...
 
 -   Spring Framework (IntelliJ)
--   Java (IntelliJ)
+-   Java/C# (IntelliJ)
 -   Chain-RPG Game Server (Spring Websocket - Intellij)
 -   TypeScript/JavaScript (Visual Studio Code)
 
@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 
 -   Spring Framework
 -   TypeScript
+-   C#
 -   Minecraft Addon/Script
+-   PowerNukkitX
 
 #### ⚡ Fun projects ...
 
