@@ -17,15 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![Namsic's Github Status](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namsic6460&theme=blue_green)
-
-<div class="row">
-  <div class="col-md-8" markdown="1">
-    ![Namsic's Github Commit Status](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namsic6460&theme=blue_green)
-  </div>
-  <div class="col-md-4" markdown="1">
-    ![Namsic's Github Repo Status](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namsic6460&theme=blue_green)
-  </div>
-</div>
+![Namsic's Github Commit Status](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namsic6460&theme=blue_green)
 
 #### 🔭 I’m currently working on ...
 
