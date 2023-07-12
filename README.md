@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 * Daegu Software Meister High School
 -->
 
-![Namsic's github stats](https://github-readme-stats.vercel.app/api?username=namsic6460&show_icons=true&hide_border=true&count_private=true)
+![Namsic's Github Status](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namsic6460&theme=blue_green)
 
-[![Github Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white&link=namsic6460@gmail.com)](namsic6460@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=namsic6460@gmail.com)](namsic6460@gmail.com)
+![Namsic's Github Commit Status](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namsic6460&theme=blue_green)
 
 #### 🔭 I’m currently working on ...
 
