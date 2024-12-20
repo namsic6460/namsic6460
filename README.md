@@ -25,18 +25,16 @@ Here are some ideas to get you started:
 
 #### 🎖 I’m currently using ...
 
--   Spring Framework (IntelliJ)
--   Java/C# (IntelliJ)
--   Chain-RPG Game Server (Spring Websocket - Intellij)
+-   Spring Boot (IntelliJ)
+-   Java/C# (IntelliJ / Rider)
 -   TypeScript/JavaScript (Visual Studio Code)
 
 #### 🛫 I’m currently learning ...
 
--   Spring Framework
+-   Spring Boot
 -   TypeScript
 -   C#
 -   Minecraft Addon/Script
--   PowerNukkitX
 
 #### ⚡ Fun projects ...
 
