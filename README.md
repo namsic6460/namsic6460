@@ -20,23 +20,14 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on ...
 
--   Corp. Stand-by Lab
--   LKD Bedrock Developing Crew
+-   Dream Maker - Game Making Platform
 
 #### 🎖 I’m currently using ...
-
--   Spring Boot (IntelliJ)
--   Java/C# (IntelliJ / Rider)
--   TypeScript/JavaScript (Visual Studio Code)
+-   Java/C#
+-   TypeScript/JavaScript
 
 #### 🛫 I’m currently learning ...
 
 -   Spring Boot
+-   LibGDX
 -   TypeScript
--   C#
--   Minecraft Addon/Script
-
-#### ⚡ Fun projects ...
-
--   Minecraft Contents Making(Bedrock Edition) - Addon, Command, Script
--   Chain-RPG Project with Spring Websocket and Unity
